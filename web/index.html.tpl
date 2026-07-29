@@ -118,6 +118,17 @@
           <p>Evaluations have various depths and node count. If you only want one PV, we recommend selecting the evaluation with the highest depth, and use its first PV.</p>
           </p>
         </section>
+        <section id="openings" class="panel">
+            <nav>
+                <a href="#standard_games">Chess games</a>
+                <a href="#variant_games">Variants</a>
+                <a href="#broadcasts">Broadcasts</a>
+                <a href="#puzzles">Puzzles</a>
+                <a href="#evals">Evaluations</a>
+                <a href="#openings" class="on">Openings</a>
+            </nav>
+            <p>We maintain a crowdsourced dataset of chess openings on GitHub: <a href="https://github.com/lichess-org/chess-openings">lichess-org/chess-openings</a></p>
+        </section>
         <section id="puzzles" class="panel">
           <nav>
             <a href="#standard_games">Chess games</a>
@@ -434,17 +445,6 @@
               </li>
             </ul>
           </section>
-        </div>
-        <div id="openings" class="panel">
-            <nav>
-                <a href="#standard_games">Chess games</a>
-                <a href="#variant_games">Variants</a>
-                <a href="#broadcasts">Broadcasts</a>
-                <a href="#puzzles">Puzzles</a>
-                <a href="#evals">Evaluations</a>
-                <a href="#openings" class="on">Openings</a>
-            </nav>
-              <p> We maintain a crowdsourced dataset of chess openings on GitHub: <a href="https://github.com/lichess-org/chess-openings">lichess-org/chess-openings</a></p>
         </div>
         <section>
           <h3 id="related-projects" >Related projects</h3>
