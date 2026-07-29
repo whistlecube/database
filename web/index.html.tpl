@@ -595,9 +595,6 @@
                 <li>
                   <a href="https://chess.tutlis.com/">Find how you're connected to any Lichess player through a chain of victories</a>
                 </li>
-                <li>
-                  <a href=""></a>
-                </li>
               </ul>
           </ol>
           <p>
