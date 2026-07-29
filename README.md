@@ -1,6 +1,6 @@
 # lichess DB
 
-This code exports lichess game database in a standard PGN format.
+This code exports the Lichess game database in a standard PGN format.
 
 Files are available on [https://database.lichess.org](https://database.lichess.org).
 
