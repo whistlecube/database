@@ -163,7 +163,7 @@ a:hover {
 .content,
 .license,
 header {
-  width: 750px;
+  width: 850px;
   margin: 0 auto;
 }
 
@@ -468,10 +468,12 @@ nav a.on {
 #puzzles,
 #broadcasts,
 #variant_games,
+#openings,
 #evals:target~#standard_games,
 #puzzles:target~#standard_games,
 #broadcasts:target~#standard_games,
-#variant_games:target~#standard_games {
+#variant_games:target~#standard_games,
+#openings:target~#standard_games {
   display: none;
 }
 
@@ -479,6 +481,7 @@ nav a.on {
 #puzzles:target,
 #broadcasts:target,
 #variant_games:target,
+#openings:target,
 #standard_games,
 #standard_games:target {
   display: block;
@@ -487,6 +490,7 @@ nav a.on {
 #standard_games nav,
 #broadcasts nav,
 #evals nav,
-#puzzles nav {
+#puzzles nav,
+#openings nav {
   margin-bottom: 50px;
 }
